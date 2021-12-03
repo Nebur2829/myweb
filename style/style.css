@@ -1,0 +1,171 @@
+body{
+    background-color: burlywood;
+}
+p{
+    color:saddlebrown;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+h1{
+    color:rgb(151, 68, 8);
+    
+}
+h2{
+    color:seagreen;
+    font-family: 'Josefin Sans', sans-serif;
+}
+h3{
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+h4{
+    color:royalblue;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: blue;
+}
+a:active{
+    color: blue;
+}
+
+.one{
+    background: peru;
+    font-size: 15px;
+    margin: 0;
+    text-align: center;
+    background-color: peru;
+    border:groove 3px brown;
+    padding: 1%;
+    margin: 0%;
+    margin-top: 35px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.two{
+    float:left;
+    text-align: center;
+    background-color: peru;
+    padding: 1%;
+    border:groove 3px brown;
+    margin-bottom: 35px;
+    margin-left: 25px;
+}
+.doscomauno{
+    float: left;
+    text-align: center;
+    background-color: peru;
+    padding: 1%;
+    border:groove 3px rgb(104, 95, 95);
+    border-left: peru;
+    border-right: peru;
+    margin-bottom: 35px;
+}
+.doscomados{
+    float: left;
+    text-align: center;
+    background-color: peru;
+    padding: 1%;
+    border:groove 3px brown;
+    margin-bottom: 35px;
+}
+.three{
+    float: left;
+    height: 760px;
+    width: 1100px;
+    margin: 0;
+    text-align: center;
+    background-color: peru;
+    border:groove 3px brown;
+    padding: 0%;
+    margin: 0%;
+    margin-left: 25px;
+}
+.four{
+    top: 100px;
+    clear: none;
+    float: right;
+    width: 180px;
+    height: 1200x;
+    margin: 0;
+    text-align: left;
+    background-color: peru;
+    border:groove 3px brown;
+    padding: 0%;
+    margin: 0%;
+    margin-right: 25px;
+    left: 300px;
+}
+.five{
+    float: right;
+    clear: both;
+    width: 1328px;
+    height: 290;
+    margin: 0;
+    text-align: center;
+    background-color: peru;
+    border:groove 3px brown;
+    padding: 0%;
+    margin: 0%;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.seven {
+    float: left;
+    position: relative;
+    clear: both;
+    width: 350px;
+    height: 480px;
+    margin: 0;
+    text-align: center;
+    background-color: burlywood;
+    border:groove 0px burlywood;
+    padding: 0%;
+    margin: 0%;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.eight{
+    position: relative;
+    left: 475px;
+    top: -516px;
+    clear: both;
+    width: 350px;
+    height: 480px;
+    margin: 0;
+    text-align: center;
+    background-color: burlywood;
+    border:groove 0px burlywood;
+    padding: 0%;
+    margin: 0%;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 25px;
+    margin-right: 25px;
+    justify-content: center;
+}
+.nine{
+    float: right;
+    position: relative;
+    top: -1065px;
+    clear: none;
+    width: 350px;
+    height: 480px;
+    margin: 0;
+    text-align: center;
+    background-color: burlywood;
+    border:groove 0px burlywood;
+    padding: 0%;
+    margin: 0%;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
